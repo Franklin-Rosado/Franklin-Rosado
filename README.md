@@ -28,7 +28,7 @@ Automatización de la toma de decisiones en el trading de índices financieros b
 
 Tecnologías: Python, MetaTrader 5 API, XGBoost, FinBERT
 
-Repositorio: [https://github.com/Franklin-Rosado/BOT_TRADING.git](https://github.com/Franklin-Rosado/BOT_TRADING.git)
+Repositorio: [Enlance](https://github.com/Franklin-Rosado/BOT_TRADING.git)
 
 **Parque Samanes**
 
@@ -36,7 +36,7 @@ Proyecto web que realicé en equipo para presentar información sobre las zonas 
 
 Tecnologías: HTML, CSS, JavaScript y GitHub Pages.
 
-Repositorio:  
+Repositorio: [Enlance] (https://github.com/AraujoHivor/Proyecto2---Samanes.git)
 
 **App de Pedidos**
 
