@@ -28,7 +28,7 @@ Automatización de la toma de decisiones en el trading de índices financieros b
 
 Tecnologías: Python, MetaTrader 5 API, XGBoost, FinBERT
 
-Repositorio: [Enlance](https://github.com/Franklin-Rosado/BOT_TRADING.git)
+Repositorio: [BOT_TRADING](https://github.com/Franklin-Rosado/BOT_TRADING.git)
 
 **Parque Samanes**
 
@@ -36,7 +36,7 @@ Proyecto web que realicé en equipo para presentar información sobre las zonas 
 
 Tecnologías: HTML, CSS, JavaScript y GitHub Pages.
 
-Repositorio: [Enlance] (https://github.com/AraujoHivor/Proyecto2---Samanes.git)
+Repositorio: [PARQUE_SAMANES](https://github.com/AraujoHivor/Proyecto2---Samanes.git)
 
 **App de Pedidos**
 
@@ -44,7 +44,7 @@ Proyecto en conjunto haciendo uso de la terminal de java donde se simulaba el en
 
 Tecnologías: Java.
 
-Repositorio: https://github.com/RonaldMachuca/POO5_1P_MACHUCA_ROSADO_VINCES.git
+Repositorio: [APP_PEDIDOS](https://github.com/RonaldMachuca/POO5_1P_MACHUCA_ROSADO_VINCES.git)
 
 **Proyecto Simulador de Reciclaje**
 
@@ -52,9 +52,9 @@ Proyecto grupal donde se realiza una simulación de un centro reciclaje que gest
 
 Tecnologías: Java y Netbeans.
 
-Repositorio: https://github.com/XavierLopezM/ED_P1_Grupo05.git
+Repositorio: [SIMULADOR_RECICLAJE](https://github.com/XavierLopezM/ED_P1_Grupo05.git)
 
 # Cómo Contactarme
-- LinkedIn: https://www.linkedin.com/in/franklin-rosado-917694376/
+- LinkedIn: [FRANKLIN_ROSADO](https://www.linkedin.com/in/franklin-rosado-917694376/)
 
 - Email: franros1235@gmail.com
