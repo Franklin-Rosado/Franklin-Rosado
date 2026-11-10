@@ -11,15 +11,23 @@ Me apasiona resolver problemas combinando hardware, redes y desarrollo de softwa
 # Habilidades y Tecnologias
 
 ### Frontend & Web: 
-React | TypeScript | JavaScript | HTML5 | CSS3 (Flexbox/Grid) | Material UI (MUI)
+React | TypeScript | JavaScript | HTML5 | CSS3 (Flexbox/Grid) | Material UI (MUI). *Utilizados para construir interfaces interactivas y modulares, como en la plataforma de información del Parque Samanes.*
+
 ### Lenguajes & Datos:
-Python | C++ | Java | R | x86 Assembly
+Python | C++ | Java | R | x86 Assembly. 
+*Aplicados en la lógica backend de simuladores (como el Simulador de Reciclaje) y scripts de automatización.*
+
 ### Herramientas & Entornos:
 Git | GitHub (Pages) | Vite | Figma | Cisco Packet Tracer
+*Empleados para el control de versiones, diseño y prototipado de interfaces (UI/UX), despliegue rápido de proyectos estáticos y simulación de arquitecturas de red.*
+
 ### Hardware & Otros:
-Desarrollo de Extensiones (Chrome)
+Desarrollo de Extensiones (Chrome).
+*Aplicado en la creación de herramientas personalizadas para interactuar y automatizar tareas directamente en el navegador.*
+
 ### Librerías (Data/IA):
 scikit-learn | XGBoost | FinBERT
+*Implementadas fundamentalmente en el Bot de Trading para el desarrollo de modelos predictivos de machine learning y el análisis de sentimiento del mercado financiero.*
 
 # Proyectos
 **Bot Trading**
